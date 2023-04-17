@@ -1,2 +1,2 @@
-# MQTT-broker -> REST-API-Post
-MQTT Broker, Python PAHO Subscriber, Python REST API Client: Post
+# MQTT-broker -> REST-API-Get
+MQTT Broker, Python PAHO Subscriber, Python REST API Client: Get
